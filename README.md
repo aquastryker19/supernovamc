@@ -1,0 +1,2 @@
+# supernovamc
+amazing minecraft server
